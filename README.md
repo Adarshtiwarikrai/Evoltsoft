@@ -94,17 +94,17 @@ Navigate to http://localhost:5174
 ## 📸 Screenshots
 
 ### Home Screen
-![Home Screen](vue_project/public/Screenshot 2025-06-03 125831.png)
-![Home Screen](vue_project/public/Screenshot 2025-06-03 125856.png)
+![Home Screen](vue_project/public/home.png)
+![Home Screen](vue_project/public/home2.png)
 
 ### Dashboard Overview
-![Dashboard](vue_project/public/Screenshot 2025-06-03 125701.png)
+![Dashboard](vue_project/public/dashboard.png)
 
 ### Interactive Map View
-![Map View](vue_project/public/Screenshot 2025-06-03 125730.png)
+![Map View](vue_project/public/map.png)
 
 ### Route Overview
-![Route Overview](vue_project/public/Screenshot 2025-06-03 125730.png)
+![Route Overview](vue_project/public/route.png)
 
 ## 📖 Usage
 
