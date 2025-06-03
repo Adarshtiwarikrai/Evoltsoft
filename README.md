@@ -94,7 +94,7 @@ Navigate to http://localhost:5174
 ## 📸 Screenshots
 
 ### Home Screen
-![Home Screen](vue_project/public/home.png)
+![Home Screen](vue_project/home.png)
 ![Home Screen](vue_project/public/home2.png)
 
 ### Dashboard Overview
