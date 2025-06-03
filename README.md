@@ -101,7 +101,7 @@ Navigate to http://localhost:5174
 ![Dashboard](vue_project/public/dashboard.png)
 
 ### Interactive Map View
-![Map View](vue_project/public/map.png)
+![Map View](vue_project/public/mapview.png)
 
 ### Route Overview
 ![Route Overview](vue_project/public/route.png)
