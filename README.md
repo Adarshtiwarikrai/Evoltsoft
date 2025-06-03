@@ -124,46 +124,4 @@ Click the Find Near me button on dashboard it will show the nearest station to c
 it will show the nearest station to user location and in map view when we click on the station marker in map it will show tow button
 find direction to find direction from the user location to station in google map and their is another button show route it will show the route
 in current map 
-
-🏗️ Project Structure
-Evoltsoft/
-vue_project/
-├── public/
-│   └── index.html
-├── src/
-│   ├── assets/            # Static assets like images, global CSS
-│   │   └── logo.png
-│   ├── components/        # Reusable UI components
-│   │   ├── Navbar.vue
-│   │   ├── ChargerForm.vue
-│   │   └── ChargerMap.vue
-│   ├── router/            # Vue Router configuration
-│   │   └── index.js
-│   ├── services/          # API interaction logic
-│   │   ├── apiClient.js
-│   │   └── stationService.js
-│   ├── store/             # Vuex state management
-│   │   ├── index.js
-│   │   └── modules/
-│   │       ├── auth.js
-│   │       └── stations.js
-│   ├── views/             # Page-level components
-│   │   ├── LoginView.vue
-│   │   ├── RegisterView.vue
-│   │   ├── DashboardView.vue
-│   │   └── NotFoundView.vue
-│   ├── App.vue            # Root Vue component
-│   └── main.js            # Main entry point
-├── .env                   # For local environment variables
-├── babel.config.js
-├── package.json
-└── vue.config.js          # Optional, for 
-├── backend/                 # Node.js backend
-│   ├── controllers/       # Route handlers
-│   ├── models/           # Database models
-│   ├── middleware/       # Express middleware
-│   ├── routes/           # API routes
-│   ├── utils/            # Helper functions
-│   └── config/           # Configuration files
-├── .env                  # Environment variables template
-└── package.json          # Root package.json
+<pre lang="markdown"> ```text 🏗️ Project Structure Evoltsoft/ ├── vue_project/ │ ├── public/ │ │ └── index.html │ ├── src/ │ │ ├── assets/ # Static assets like images, global CSS │ │ │ └── logo.png │ │ ├── components/ # Reusable UI components │ │ │ ├── Navbar.vue │ │ │ ├── ChargerForm.vue │ │ │ └── ChargerMap.vue │ │ ├── router/ # Vue Router configuration │ │ │ └── index.js │ │ ├── services/ # API interaction logic │ │ │ ├── apiClient.js │ │ │ └── stationService.js │ │ ├── store/ # Vuex state management │ │ │ ├── index.js │ │ │ └── modules/ │ │ │ ├── auth.js │ │ │ └── stations.js │ │ ├── views/ # Page-level components │ │ │ ├── LoginView.vue │ │ │ ├── RegisterView.vue │ │ │ ├── DashboardView.vue │ │ │ └── NotFoundView.vue │ │ ├── App.vue # Root Vue component │ │ └── main.js # Main entry point │ ├── .env # For local environment variables │ ├── babel.config.js │ ├── package.json │ └── vue.config.js # Optional Vue config ├── backend/ # Node.js backend │ ├── controllers/ # Route handlers │ ├── models/ # Database models │ ├── middleware/ # Express middleware │ ├── routes/ # API routes │ ├── utils/ # Helper functions │ └── config/ # Configuration files ├── .env # Environment variables template └── package.json # Root package.json ``` </pre>
