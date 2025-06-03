@@ -102,13 +102,13 @@ Navigate to http://localhost:5174
 
 ### Interactive Map View
 ![Map View](vue_project/public/mapview.png)
-Red-icon:-User Location
-Blue-icon:-Station Location
+-Red-icon:-User Location
+-Blue-icon:-Station Location
 
 ### Route Overview
 ![Route Overview](vue_project/public/route.png)
-Red-icon:-User Location
-Blue-icon:-Station Location
+-Red-icon:-User Location
+-Blue-icon:-Station Location
 ## 📖 Usage
 
 ### Getting Started with Your EV Charging Network
